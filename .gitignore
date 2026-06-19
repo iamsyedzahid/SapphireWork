@@ -21,10 +21,6 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files
-data/
-*.csv
-
 # ML Models and Logs
 *.log
 models/
